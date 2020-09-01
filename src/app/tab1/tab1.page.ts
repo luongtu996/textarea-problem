@@ -20,5 +20,7 @@ export class Tab1Page {
     })
 
     await modal.present()
+
+    console.log("presetn modatl")
   }
 }
