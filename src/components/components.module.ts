@@ -13,6 +13,6 @@ import { TestComponent } from './test/test.component';
   ],
   exports: [
     TestComponent
-  ]
+  ], 
 })
 export class ComponentsModule { }
