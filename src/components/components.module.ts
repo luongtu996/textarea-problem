@@ -14,5 +14,8 @@ import { TestComponent } from './test/test.component';
   exports: [
     TestComponent
   ], 
+  entryComponents: [
+    TestComponent
+  ]
 })
 export class ComponentsModule { }
